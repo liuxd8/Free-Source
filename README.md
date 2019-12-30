@@ -37,6 +37,8 @@
 
 [深度学习](#Deep-Learn)
 
+[面试](#interview)
+
 [其他资源](#Others)
 
 [应用资源](#Applications)
@@ -93,12 +95,13 @@
 
 ### <a id="Nginx"></a>Nginx
 
-
-
 * 2019-01-25 不想去`Nginx`官网注册免费下载 [The Complete NGINX Cookbook 高清免费下载](https://github.com/Rain120/Free-Source/releases/download/0.0.2/The.Complete.NGINX.Cookbook.pdf)
+
 ### <a id="Linux"></a>Linux
 
 * 2019-05-12 [深入理解Linux内核(完整版)中文版](https://github.com/Rain120/Free-Source/releases/tag/0.0.15)
+
+### <a id="Machine-Learn"></a>机器学习
 
 ### <a id="Deep-Learn"></a>深度学习
 
@@ -106,7 +109,8 @@
 
 * 2019-04-10 [深度学习之TensorFlow：入门、原理与进阶实战](https://github.com/Rain120/Free-Source/releases/tag/0.0.10)
 
-### <a id="Machine-Learn"></a>机器学习
+### <a id="interview"></a>面试
+* 2019-12-30 [剑指 Offer: 名企面试官精讲典型编程题 第2版](https://github.com/Rain120/Free-Source/releases/tag/0.0.26)
 
 ### <a id="Others"></a>其他资源
 
