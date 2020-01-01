@@ -9,7 +9,7 @@
 
 欢迎各位有需要资源在 `issue`区域提 [![Issue](https://img.shields.io/badge/Help-Welcome-brightgreen)](https://github.com/Rain120/Free-Source/issues)
 
-## 目录
+# 目录
 
 [Web](#Web)
 
@@ -19,6 +19,8 @@
   
   - [JavaScript](#JavaScript)
   
+[Git](#Git)
+
 [网络](#Network)
 
 [数学](#Math)
@@ -37,7 +39,7 @@
 
 [深度学习](#Deep-Learn)
 
-[面试](#interview)
+[面试](#Interview)
 
 [其他资源](#Others)
 
@@ -45,17 +47,17 @@
 
 [破解教程](#Crack-Tutorial)
 
-### <a id="Web"></a>Web
+## <a id="Web"></a>Web
 
 * 2019-06-28 [SEO必知必会51技](https://github.com/Rain120/Free-Source/releases/tag/0.0.22)
 
 * 2019-06-12 [FDC Conf 2019 PPT](https://github.com/Rain120/Free-Source/releases/tag/0.0.18)
 
-#### <a id="HTML"></a>HTML
+### <a id="HTML"></a>HTML
 
-#### <a id="CSS"></a>CSS
+### <a id="CSS"></a>CSS
 
-#### <a id="JavaScript"></a>JavaScript
+### <a id="JavaScript"></a>JavaScript
 
 * 2019-06-22 [你不知道的JavaScript(下卷)](https://github.com/Rain120/Free-Source/releases/tag/0.0.21)
 
@@ -71,50 +73,66 @@
 
 * 2019-03-01 [数据结构与算法JavaScript描述](https://github.com/Rain120/Free-Source/releases/tag/0.0.5)
 
-### <a id="Network"></a>网络
+## <a id="Git"></a>Git
+
+* 2020-01-01 专业Git学习 链接: https://pan.baidu.com/s/1YiODAtlnTYU3cxcz4ukf2g 提取码: ygef
+
+* 2020-01-01 Pro Git 链接: https://pan.baidu.com/s/1eTg5nP3m6pOiZ3gv8C4Jvg 提取码: rgty
+
+* 2019-01-17 [Git Bash for Windows 32](https://github.com/Rain120/Free-Source/releases/download/0.0.1/Git-2.18.0-32-bit.exe)
+
+* 2019-01-17 [Git Bash for Windows 64](https://github.com/Rain120/Free-Source/releases/download/0.0.1/Git-2.18.0-64-bit.exe)
+
+## <a id="Network"></a>网络
 
 * 2019-02-08 [图解HTTP 黑白印刷 日 上野宣著 人民邮电出版社 2014.05 250页](https://github.com/Rain120/Free-Source/archive/0.0.4.zip)
 
-### <a id="Math"></a>数学
+* 2020-01-01 图解TCP / IP 链接: https://pan.baidu.com/s/1pIwLKWvco9nLIjQZEd8a5w 提取码: cn2g
+
+* 2020-01-01 HTTP 权威指南 链接: https://pan.baidu.com/s/1fkgW7qn8XKTGOEGbrc05qw 提取码: mryg
+
+* 2020-01-01 网络是怎么连接的 链接: https://pan.baidu.com/s/1_MW_vcU2KaoNFAh02-L0Qw 提取码: pyrm
+
+## <a id="Math"></a>数学
 
 * 2019-03-20 [程序员的数学(1, 2, 3)](https://github.com/Rain120/Free-Source/releases/tag/0.0.9)
 
-### <a id="Algorithm"></a>算法
+## <a id="Algorithm"></a>算法
 
 * 2019-03-01 [算法导论 第三版](https://github.com/Rain120/Free-Source/releases/tag/0.0.6)
 
-### <a id="Python"></a>Python
+## <a id="Python"></a>Python
 
 * 2019-03-01 [Python游戏编程快速上手](https://github.com/Rain120/Free-Source/releases/tag/0.0.7)
 
-### <a id="Docker"></a>Docker
+## <a id="Docker"></a>Docker
 
 * 2019-06-28 [第一本Docker书 PDF电子书下载 带书签目录 完整版](https://github.com/Rain120/Free-Source/releases/tag/0.0.23)
 
 * 2019-02-05 [Docker技术入门与实战  第3版](https://github.com/Rain120/Free-Source/archive/0.0.3.zip)
 
-### <a id="Nginx"></a>Nginx
+## <a id="Nginx"></a>Nginx
 
 * 2019-01-25 不想去`Nginx`官网注册免费下载 [The Complete NGINX Cookbook 高清免费下载](https://github.com/Rain120/Free-Source/releases/download/0.0.2/The.Complete.NGINX.Cookbook.pdf)
 
-### <a id="Linux"></a>Linux
+## <a id="Linux"></a>Linux
 
 * 2019-05-12 [深入理解Linux内核(完整版)中文版](https://github.com/Rain120/Free-Source/releases/tag/0.0.15)
 
-### <a id="Machine-Learn"></a>机器学习
+## <a id="Machine-Learn"></a>机器学习
 
-### <a id="Deep-Learn"></a>深度学习
+## <a id="Deep-Learn"></a>深度学习
 
 * 2019-04-10 [Web安全之深度学习实战](https://github.com/Rain120/Free-Source/releases/tag/0.0.11)
 
 * 2019-04-10 [深度学习之TensorFlow：入门、原理与进阶实战](https://github.com/Rain120/Free-Source/releases/tag/0.0.10)
 
-### <a id="interview"></a>面试
+## <a id="Interview"></a>面试
 * 2019-12-30 [剑指 Offer: 名企面试官精讲典型编程题 第2版](https://github.com/Rain120/Free-Source/releases/tag/0.0.26)
 
-### <a id="Others"></a>其他资源
+## <a id="Others"></a>其他资源
 
-### <a id="Applications"></a>应用资源
+## <a id="Applications"></a>应用资源
 
 * 2019-08-16 [Mac Tools](https://github.com/Rain120/Free-Source/tree/master/Mac%20Tools)
 
@@ -122,11 +140,7 @@
 
 * 2019-03-20 [Navicat 12+ 破解教程及工具](https://github.com/Rain120/Free-Source/releases/tag/0.0.8)
 
-* 2019-01-17 [Git Bash for Windows 32](https://github.com/Rain120/Free-Source/releases/download/0.0.1/Git-2.18.0-32-bit.exe)
-
-* 2019-01-17 [Git Bash for Windows 64](https://github.com/Rain120/Free-Source/releases/download/0.0.1/Git-2.18.0-64-bit.exe)
-
-### <a id="Crack-Tutorial"></a>破解教程
+## <a id="Crack-Tutorial"></a>破解教程
 
 * 2019-01-18 无需密钥，免费激活[win10](https://github.com/Rain120/Free-Source/tree/master/windows%2010)，[win8, win8.1](https://github.com/Rain120/Free-Source/tree/master/window%208%20or%208.1)
 
