@@ -47,6 +47,8 @@
 
 [破解教程](#Crack-Tutorial)
 
+[百度云盘不限速](#BDDisk-Download)
+
 ## <a id="Web"></a>Web
 
 * 2019-06-28 [SEO必知必会51技](https://github.com/Rain120/Free-Source/releases/tag/0.0.22)
@@ -145,3 +147,7 @@
 * 2019-01-18 无需密钥，免费激活[win10](https://github.com/Rain120/Free-Source/tree/master/windows%2010)，[win8, win8.1](https://github.com/Rain120/Free-Source/tree/master/window%208%20or%208.1)
 
 * 2019-05-15 [Office 破解教程](https://github.com/Rain120/Free-Source/tree/master/office%20%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B) Eg: [office 2016专业版激活教程](https://github.com/Rain120/Free-Source/tree/master/office%20%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B)
+
+## <a id="BDDisk-Download"></a>百度云盘不限速
+
+* 2020-01-05 [百度云盘不限速下载](https://github.com/Rain120/Free-Source/issues)
