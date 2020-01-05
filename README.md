@@ -150,4 +150,4 @@
 
 ## <a id="BDDisk-Download"></a>百度云盘不限速
 
-* 2020-01-05 [百度云盘不限速下载](https://github.com/Rain120/Free-Source/issues)
+* 2020-01-05 [百度云盘不限速下载](https://github.com/Rain120/Free-Source/issues/1)
