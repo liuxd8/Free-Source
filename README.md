@@ -130,7 +130,7 @@
 * 2019-04-10 [深度学习之TensorFlow：入门、原理与进阶实战](https://github.com/Rain120/Free-Source/releases/tag/0.0.10)
 
 ## <a id="Interview"></a>面试
-* 2019-12-30 [剑指 Offer: 名企面试官精讲典型编程题 第2版](https://github.com/Rain120/Free-Source/releases/tag/0.0.26)
+* 2019-12-30 [剑指 Offer: 名企面试官精讲典型编程题 第2版](https://github.com/Rain120/Free-Source/releases/tag/0.0.26) [JS code Github](https://github.com/14glwu/FEInterviewBox) [C++ Code Github](https://github.com/zhedahht/CodingInterviewChinese2)
 
 ## <a id="Others"></a>其他资源
 
