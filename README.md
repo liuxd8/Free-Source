@@ -144,6 +144,12 @@
 
 * 2020-01-20 [Softorino YouTube Converter_2.1.13.dmg](https://github.com/Rain120/Free-Source/blob/master/Mac%20Tools/Softorino%20YouTube%20Converter_2.1.13.dmg): Mac Youtube 下载工具
 
+* 2020-03-26 XMind ZEN
+
+  * Windows 链接: https://pan.baidu.com/s/1DN2M4CikDp4zGjA_8UI_VQ 提取码: h4uj 复制这段内容后打开百度网盘手机App，操作更方便哦
+  
+  * Mac 链接: https://pan.baidu.com/s/1zQgRe2FMmwI3jlC32BsFvg 提取码: pn6t 复制这段内容后打开百度网盘手机App，操作更方便哦
+
 ## <a id="Crack-Tutorial"></a>破解教程
 
 * 2019-01-18 无需密钥，免费激活[win10](https://github.com/Rain120/Free-Source/tree/master/windows%2010)，[win8, win8.1](https://github.com/Rain120/Free-Source/tree/master/window%208%20or%208.1)
