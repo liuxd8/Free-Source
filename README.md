@@ -107,9 +107,20 @@
 
 * 2019-03-01 [Python游戏编程快速上手](https://github.com/Rain120/Free-Source/releases/tag/0.0.7)
 
+* 2019-04-14
+  
+  - Python Cookbook 第三版 中文版 链接: https://pan.baidu.com/s/18--uBwVq4o_hlEavU9W3eg 提取码: d2np 复制这段内容后打开百度网盘手机App，操作更方便哦
+  
+  - 可爱的Python(高清中文版) 链接: https://pan.baidu.com/s/1KqL3toD4hQirvcJfkEDdIQ 提取码: y5nb 复制这段内容后打开百度网盘手机App，操作更方便哦
+  
+  - 深入 Python 3 中文版 链接: https://pan.baidu.com/s/1ySqOGlgMWd1Iwjfl47m1uw 提取码: xbd9
+  
+  - 深入理解Python中文版高清PDF 链接: https://pan.baidu.com/s/13cxf_7S3xpGcQwghNPz8ag 提取码: r9b8
+
 ## <a id="Docker"></a>Docker
 
 * 2019-06-28 [第一本Docker书 PDF电子书下载 带书签目录 完整版](https://github.com/Rain120/Free-Source/releases/tag/0.0.23)
+  百度云盘 链接: https://pan.baidu.com/s/1iUHmiwJ2frKGMn7XhMgWoA 提取码: 2wjs
 
 * 2019-02-05 [Docker技术入门与实战  第3版](https://github.com/Rain120/Free-Source/archive/0.0.3.zip)
 
