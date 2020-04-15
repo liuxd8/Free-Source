@@ -75,6 +75,8 @@
 
 * 2019-03-01 [数据结构与算法JavaScript描述](https://github.com/Rain120/Free-Source/releases/tag/0.0.5)
 
+* 2020-04-15 学习JavaScript数据结构与算法 第3版 pdf 链接: https://pan.baidu.com/s/1YtAj6vx8MoRPkNE71JVxyw 提取码: vt4b
+
 ## <a id="Git"></a>Git
 
 * 2020-01-01 专业Git学习 链接: https://pan.baidu.com/s/1YiODAtlnTYU3cxcz4ukf2g 提取码: ygef
