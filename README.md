@@ -77,6 +77,8 @@
 
 * 2020-04-15 学习JavaScript数据结构与算法 第3版 pdf 链接: https://pan.baidu.com/s/1YtAj6vx8MoRPkNE71JVxyw 提取码: vt4b
 
+* 2020-06-20 ECMAScript® 2018 Language Specification.pdf 中文版 链接: https://pan.baidu.com/s/1FrfmdRgk6k_XQDYCWqcanA 提取码: 8dw8
+
 ## <a id="Git"></a>Git
 
 * 2020-01-01 专业Git学习 链接: https://pan.baidu.com/s/1YiODAtlnTYU3cxcz4ukf2g 提取码: ygef
