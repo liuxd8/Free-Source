@@ -153,8 +153,6 @@
 
 * 2019-08-16 [Mac Tools](https://github.com/Rain120/Free-Source/tree/master/Mac%20Tools)
 
-* 2019-05-19 [百度网盘不限速下载 -- PanDownload](https://github.com/Rain120/Free-Source/releases/tag/0.0.16)
-
 * 2019-03-20 [Navicat 12+ 破解教程及工具](https://github.com/Rain120/Free-Source/releases/tag/0.0.8)
 
 * 2020-01-20 [Softorino YouTube Converter_2.1.13.dmg](https://github.com/Rain120/Free-Source/blob/master/Mac%20Tools/Softorino%20YouTube%20Converter_2.1.13.dmg): Mac Youtube 下载工具
