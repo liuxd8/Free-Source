@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Free-Source</h1>
   <br />
-  <h1 align="center">由于版本问题，即日起将下线所有书籍资源</h1>
+  <h1 align="center">由于版本问题，即日起将下线所有书籍资源(资源文件已删除)</h1>
   <br />
   <img align="center" src="./free-source.png" />
   <h4 align="center">分享各类学习资源</h4>
@@ -78,7 +78,7 @@
 
 * 2019-03-01 [数据结构与算法JavaScript描述](https://github.com/Rain120/Free-Source/releases/tag/0.0.5)
 
-* 2020-04-15 学习JavaScript数据结构与算法 第3版 pdf 链接: https://pan.baidu.com/s/1YtAj6vx8MoRPkNE71JVxyw 提取码: vt4b
+* 2020-04-15 学习JavaScript数据结构与算法 第3版 pdf
 
 * 2020-06-20 ECMAScript® 2018 Language Specification.pdf 中文版 链接: https://pan.baidu.com/s/1FrfmdRgk6k_XQDYCWqcanA 提取码: 8dw8
 
@@ -96,11 +96,11 @@
 
 * 2019-02-08 [图解HTTP 黑白印刷 日 上野宣著 人民邮电出版社 2014.05 250页](https://github.com/Rain120/Free-Source/archive/0.0.4.zip)
 
-* 2020-01-01 图解TCP / IP 链接: https://pan.baidu.com/s/1pIwLKWvco9nLIjQZEd8a5w 提取码: cn2g
+* 2020-01-01 图解TCP / IP
 
-* 2020-01-01 HTTP 权威指南 链接: https://pan.baidu.com/s/1fkgW7qn8XKTGOEGbrc05qw 提取码: mryg
+* 2020-01-01 HTTP 权威指南
 
-* 2020-01-01 网络是怎么连接的 链接: https://pan.baidu.com/s/1_MW_vcU2KaoNFAh02-L0Qw 提取码: pyrm
+* 2020-01-01 网络是怎么连接的
 
 ## <a id="Math"></a>数学
 
@@ -116,18 +116,18 @@
 
 * 2019-04-14
   
-  - Python Cookbook 第三版 中文版 链接: https://pan.baidu.com/s/18--uBwVq4o_hlEavU9W3eg 提取码: d2np 复制这段内容后打开百度网盘手机App，操作更方便哦
+  - Python Cookbook 第三版 中文版 链接: https://pan.baidu.com/s/1a8--uBwVq4o_hlEavU9W3eg 提取码: d2np 复制这段内容后打开百度网盘手机App，操作更方便哦
   
-  - 可爱的Python(高清中文版) 链接: https://pan.baidu.com/s/1KqL3toD4hQirvcJfkEDdIQ 提取码: y5nb 复制这段内容后打开百度网盘手机App，操作更方便哦
+  - 可爱的Python(高清中文版)
   
-  - 深入 Python 3 中文版 链接: https://pan.baidu.com/s/1ySqOGlgMWd1Iwjfl47m1uw 提取码: xbd9
+  - 深入 Python 3 中文版
   
-  - 深入理解Python中文版高清PDF 链接: https://pan.baidu.com/s/13cxf_7S3xpGcQwghNPz8ag 提取码: r9b8
+  - 深入理解Python中文版高清PDF
 
 ## <a id="Docker"></a>Docker
 
 * 2019-06-28 [第一本Docker书 PDF电子书下载 带书签目录 完整版](https://github.com/Rain120/Free-Source/releases/tag/0.0.23)
-  百度云盘 链接: https://pan.baidu.com/s/1iUHmiwJ2frKGMn7XhMgWoA 提取码: 2wjs
+  百度云盘 链接: https://pan.baidu.com/s/1aiUHmiwJ2frKGMn7XhMgWoA 提取码: 2wjs
 
 * 2019-02-05 [Docker技术入门与实战  第3版](https://github.com/Rain120/Free-Source/archive/0.0.3.zip)
 
