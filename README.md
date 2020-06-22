@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Free-Source</h1>
   <br />
-  <h1 align="center">由于版本问题，即日起将下线所有书籍资源(资源文件已删除)</h1>
+  <h1 align="center">由于版本问题，即日起将下线所有书籍资源(资源文件已删除), 其他 Fork 资源也请主动删除，涉及版权问题与本人无关</h1>
   <br />
   <img align="center" src="./free-source.png" />
   <h4 align="center">分享各类学习资源</h4>
@@ -64,29 +64,9 @@
 
 ### <a id="JavaScript"></a>JavaScript
 
-* 2019-06-22 [你不知道的JavaScript(下卷)](https://github.com/Rain120/Free-Source/releases/tag/0.0.21)
-
-* 2019-06-21 [你不知道的JavaScript(中卷)](https://github.com/Rain120/Free-Source/releases/tag/0.0.20)
-
-* 2019-06-17 [你不知道的JavaScript(上卷)](https://github.com/Rain120/Free-Source/releases/tag/0.0.19)
-
-* 2019-06-09 [JavaScript设计模式与开发实践](https://github.com/Rain120/Free-Source/releases/tag/0.0.17)
-
-* 2019-04-25 [JavaScript ES6函数式编程入门经典](https://github.com/Rain120/Free-Source/releases/tag/0.0.14)
-
-* 2019-04-19 [代码整洁之道 中文完整版-带书签](https://github.com/Rain120/Free-Source/releases/tag/0.0.13)
-
-* 2019-03-01 [数据结构与算法JavaScript描述](https://github.com/Rain120/Free-Source/releases/tag/0.0.5)
-
-* 2020-04-15 学习JavaScript数据结构与算法 第3版 pdf
-
 * 2020-06-20 ECMAScript® 2018 Language Specification.pdf 中文版 链接: https://pan.baidu.com/s/1FrfmdRgk6k_XQDYCWqcanA 提取码: 8dw8
 
 ## <a id="Git"></a>Git
-
-* 2020-01-01 专业Git学习 链接: https://pan.baidu.com/s/1YiODAtlnTYU3cxcz4ukf2g 提取码: ygef
-
-* 2020-01-01 Pro Git 链接: https://pan.baidu.com/s/1eTg5nP3m6pOiZ3gv8C4Jvg 提取码: rgty
 
 * 2019-01-17 [Git Bash for Windows 32](https://github.com/Rain120/Free-Source/releases/download/0.0.1/Git-2.18.0-32-bit.exe)
 
@@ -94,42 +74,19 @@
 
 ## <a id="Network"></a>网络
 
-* 2019-02-08 [图解HTTP 黑白印刷 日 上野宣著 人民邮电出版社 2014.05 250页](https://github.com/Rain120/Free-Source/archive/0.0.4.zip)
-
-* 2020-01-01 图解TCP / IP
-
-* 2020-01-01 HTTP 权威指南
-
-* 2020-01-01 网络是怎么连接的
-
 ## <a id="Math"></a>数学
 
-* 2019-03-20 [程序员的数学(1, 2, 3)](https://github.com/Rain120/Free-Source/releases/tag/0.0.9)
 
 ## <a id="Algorithm"></a>算法
 
-* 2019-03-01 [算法导论 第三版](https://github.com/Rain120/Free-Source/releases/tag/0.0.6)
 
 ## <a id="Python"></a>Python
-
-* 2019-03-01 [Python游戏编程快速上手](https://github.com/Rain120/Free-Source/releases/tag/0.0.7)
 
 * 2019-04-14
   
   - Python Cookbook 第三版 中文版 链接: https://pan.baidu.com/s/1a8--uBwVq4o_hlEavU9W3eg 提取码: d2np 复制这段内容后打开百度网盘手机App，操作更方便哦
-  
-  - 可爱的Python(高清中文版)
-  
-  - 深入 Python 3 中文版
-  
-  - 深入理解Python中文版高清PDF
 
 ## <a id="Docker"></a>Docker
-
-* 2019-06-28 [第一本Docker书 PDF电子书下载 带书签目录 完整版](https://github.com/Rain120/Free-Source/releases/tag/0.0.23)
-  百度云盘 链接: https://pan.baidu.com/s/1aiUHmiwJ2frKGMn7XhMgWoA 提取码: 2wjs
-
-* 2019-02-05 [Docker技术入门与实战  第3版](https://github.com/Rain120/Free-Source/archive/0.0.3.zip)
 
 ## <a id="Nginx"></a>Nginx
 
@@ -142,10 +99,6 @@
 ## <a id="Machine-Learn"></a>机器学习
 
 ## <a id="Deep-Learn"></a>深度学习
-
-* 2019-04-10 [Web安全之深度学习实战](https://github.com/Rain120/Free-Source/releases/tag/0.0.11)
-
-* 2019-04-10 [深度学习之TensorFlow：入门、原理与进阶实战](https://github.com/Rain120/Free-Source/releases/tag/0.0.10)
 
 ## <a id="Interview"></a>面试
 * 2019-12-30 [剑指 Offer: 名企面试官精讲典型编程题 第2版](https://github.com/Rain120/Free-Source/releases/tag/0.0.26) [JS code Github](https://github.com/14glwu/FEInterviewBox) [C++ Code Github](https://github.com/zhedahht/CodingInterviewChinese2)
